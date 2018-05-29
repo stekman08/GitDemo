@@ -8,6 +8,6 @@ namespace GitDemo
 {
     class Demo
     {
-
+        static void Hello(string name) => Console.WriteLine($"Hello {name}!");
     }
 }
