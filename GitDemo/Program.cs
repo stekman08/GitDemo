@@ -12,6 +12,7 @@ namespace GitDemo
         {
             Console.WriteLine("Welcome to the donjo...");
             Demo.Hello("It's me! Fredrik!");
+            Console.WriteLine(Pythagoras(2,2) + " some math for the sake of math");
             Console.Read();
         }
 
