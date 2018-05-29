@@ -11,6 +11,7 @@ namespace GitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the donjo...");
+            Demo.Hello("It's me!");
         }
 
         static double Pythagoras(double a, double b) {
