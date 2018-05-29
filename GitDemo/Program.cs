@@ -12,6 +12,9 @@ namespace GitDemo
         {
             Console.WriteLine("Welcome to the donjo...");
             Demo.Hello("It's me! Fredrik!");
+
+
+            Console.WriteLine("Hello my dear branch. This is my branch.");
             Console.Read();
         }
 
